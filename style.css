@@ -1,0 +1,15 @@
+#ball{
+    background-color: rgb(212, 47, 215);
+    background-size: cover;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 1px;
+    display: inline;
+    padding-top: 60px;
+    padding-left: 53px;
+    box-sizing: border-box;
+    position: absolute;
+    transition: transform 0.1s;
+}
